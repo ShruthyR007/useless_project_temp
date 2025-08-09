@@ -1,23 +1,22 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# {Where's My Ball?] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [sockit]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Shruthy R] - [College of Engineering Trivandrum]
+- Member 2: [Nandana M] - [College of Engineering Trivandrum]
 
 ### Project Description
-[2-3 lines about what your project does]
+ 
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Honestly, there's no problem here. It's just a ball in a box. But we were sick of not knowing its exact spot at all times. You know, just in case someone wanted to know the completely useless, precise location of a ball. It's a question that keeps nobody up at night, and we felt it was our duty to answer it.
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
@@ -25,15 +24,16 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Arduino IDE, Python
+- VS Code
+- NewPing, Pygame,Pyserial
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Arduino Uno Board
+- 3 Ultrasonic sensors- HC SR04
+- Breadboard
+- Jumper wires
+- Thermocol box for absorption
 
 ### Implementation
 For Software:
@@ -65,7 +65,7 @@ For Hardware:
 # Schematic & Circuit
 ![Circuit](Add your circuit diagram here)
 *Add caption explaining connections*
-
+ 
 ![Schematic](Add your schematic diagram here)
 *Add caption explaining the schematic*
 
